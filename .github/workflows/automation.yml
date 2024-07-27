@@ -22,14 +22,17 @@ jobs:
       uses: actions/setup-dotnet@v3
       with:
         dotnet-version: 6.0.x
-    - name: Restore dependencies
+    - name: Restore dependencies    
       run: dotnet restore
+      working-directory: playwrightFW
     - name: Build
       run: dotnet build --no-restore
+      working-directory: playwrightFW
     - name: Playwright Config
       shell: pwsh
       run: |
-        dir ${{ github.workspace }}\EPAM.Playwright.Test\bin\Debug\net6.0
-        ${{ github.workspace }}\EPAM.Playwright.Test\bin\Debug\net6.0\playwright.ps1 install    
+        dir ${{ github.workspace }}\playwrightFW\EPAM.Playwright.Test\bin\Debug\net6.0
+        ${{ github.workspace }}\playwrightFW\EPAM.Playwright.Test\bin\Debug\net6.0\playwright.ps1 install    
     - name: Test
       run: dotnet test --no-build --verbosity normal
+      working-directory: playwrightFW
