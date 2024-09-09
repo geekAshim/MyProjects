@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EPAM.PlaywrightFW.Core
-build_property.ProjectDir = C:\Users\ashim_pal\source\repos\MyProjects\playwrightFW\EPAM.PlaywrightFW\
+build_property.ProjectDir = C:\Users\ashim\Source\Repos\MyProjects\playwrightFW\EPAM.PlaywrightFW\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1595,19 +1595,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ashim_pal\\.nuget\\packages\\": {}
+    "C:\\Users\\ashim\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ashim_pal\\source\\repos\\MyProjects\\playwrightFW\\EPAM.PlaywrightFW\\EPAM.PlaywrightFW.Core.csproj",
+      "projectUniqueName": "C:\\Users\\ashim\\Source\\Repos\\MyProjects\\playwrightFW\\EPAM.PlaywrightFW\\EPAM.PlaywrightFW.Core.csproj",
       "projectName": "EPAM.PlaywrightFW.Core",
-      "projectPath": "C:\\Users\\ashim_pal\\source\\repos\\MyProjects\\playwrightFW\\EPAM.PlaywrightFW\\EPAM.PlaywrightFW.Core.csproj",
-      "packagesPath": "C:\\Users\\ashim_pal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ashim_pal\\source\\repos\\MyProjects\\playwrightFW\\EPAM.PlaywrightFW\\obj\\",
+      "projectPath": "C:\\Users\\ashim\\Source\\Repos\\MyProjects\\playwrightFW\\EPAM.PlaywrightFW\\EPAM.PlaywrightFW.Core.csproj",
+      "packagesPath": "C:\\Users\\ashim\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ashim\\Source\\Repos\\MyProjects\\playwrightFW\\EPAM.PlaywrightFW\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ashim_pal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ashim\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1615,17 +1615,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
-        "C:\\Users\\ashim_pal\\source\\repos\\wms-qa-automation\\Nuget": {},
-        "https://int.nugettest.org/api/v2": {},
-        "https://www.nuget.org/api/v2": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\ashim_pal\\source\\repos\\MyProjects\\playwrightFW\\EPAM.PlaywrightFW.Common\\EPAM.PlaywrightFW.Common.csproj": {
-              "projectPath": "C:\\Users\\ashim_pal\\source\\repos\\MyProjects\\playwrightFW\\EPAM.PlaywrightFW.Common\\EPAM.PlaywrightFW.Common.csproj"
+            "C:\\Users\\ashim\\Source\\Repos\\MyProjects\\playwrightFW\\EPAM.PlaywrightFW.Common\\EPAM.PlaywrightFW.Common.csproj": {
+              "projectPath": "C:\\Users\\ashim\\Source\\Repos\\MyProjects\\playwrightFW\\EPAM.PlaywrightFW.Common\\EPAM.PlaywrightFW.Common.csproj"
             }
           }
         }
@@ -1634,11 +1631,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -1692,15 +1684,15 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.32, 6.0.32]"
+            "version": "[6.0.25, 6.0.25]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.32, 6.0.32]"
+            "version": "[6.0.25, 6.0.25]"
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.32, 6.0.32]"
+            "version": "[6.0.25, 6.0.25]"
           }
         ],
         "frameworkReferences": {
@@ -1708,7 +1700,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
