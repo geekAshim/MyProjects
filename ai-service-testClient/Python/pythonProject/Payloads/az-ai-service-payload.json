@@ -1,0 +1,12 @@
+{
+    "documents":[
+        {
+            "id":1,
+            "text":"Ola"
+        },
+        {
+            "id": 2,
+            "text": "Hello, this is my private space."
+        }
+    ]
+}
