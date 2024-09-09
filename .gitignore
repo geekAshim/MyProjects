@@ -26,3 +26,8 @@
 /packages
 /UnitTestProject2/bin/Debug
 /UnitTestProject2/obj/Debug
+/playwrightFW/.vs
+/playwrightFW/EPAM.Playwright.Test/obj
+/playwrightFW/EPAM.PlaywrightFW/obj/Release/net6.0
+/playwrightFW/SpecFlowTestProject/obj
+/playwrightFW/EPAM.PlaywrightFW.Common/obj
