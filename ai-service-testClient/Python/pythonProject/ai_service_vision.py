@@ -17,7 +17,7 @@ class ai_imageclient():
 
         result = client.analyze(
             image_data = self.b,
-            visual_features=[VisualFeatures.CAPTION, VisualFeatures.READ],
+            visual_features=[VisualFeatures.DENSE_CAPTIONS, VisualFeatures.READ],
             gender_neutral_caption=True,
             language="en"
 
