@@ -1,0 +1,7 @@
+{
+  "model": "llama3",
+  "messages": [
+    { "role": "user", "content": "What are God Particles?" }
+  ],
+  "stream": false
+}
