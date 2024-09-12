@@ -31,3 +31,9 @@
 /playwrightFW/EPAM.PlaywrightFW/obj/Release/net6.0
 /playwrightFW/SpecFlowTestProject/obj
 /playwrightFW/EPAM.PlaywrightFW.Common/obj
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/MyProjects.iml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/vcs.xml
