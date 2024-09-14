@@ -6,8 +6,7 @@ Credit to https://stackoverflow.com/q/59054975/2828287 and https://stackoverflow
 
 import pathlib
 from datetime import datetime
-from telnetlib import theNULL
-from threading import Thread
+
 
 import imageio
 import rawpy
