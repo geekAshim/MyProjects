@@ -23,6 +23,7 @@ trainset = torchvision.datasets.CIFAR10(root='./data', train=True,
 print(len(trainset.data))
 
 plt.imshow(trainset.data[1])
+plt.show()
 print(trainset.data[1], " - Happens to be the truck class")
 
 trainloader = torch.utils.data.DataLoader(trainset, batch_size=10,
