@@ -37,3 +37,12 @@
 /.idea/MyProjects.iml
 /.idea/inspectionProfiles/profiles_settings.xml
 /.idea/vcs.xml
+/Utils/Python/Modules/Pytorch/data/cifar-10-batches-py/batches.meta
+/Utils/Python/Modules/Pytorch/data/cifar-10-python.tar.gz
+/Utils/Python/Modules/Pytorch/data/cifar-10-batches-py/data_batch_1
+/Utils/Python/Modules/Pytorch/data/cifar-10-batches-py/data_batch_2
+/Utils/Python/Modules/Pytorch/data/cifar-10-batches-py/data_batch_3
+/Utils/Python/Modules/Pytorch/data/cifar-10-batches-py/data_batch_4
+/Utils/Python/Modules/Pytorch/data/cifar-10-batches-py/data_batch_5
+/Utils/Python/Modules/Pytorch/data/cifar-10-batches-py/readme.html
+/Utils/Python/Modules/Pytorch/data/cifar-10-batches-py/test_batch
